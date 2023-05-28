@@ -1,0 +1,8 @@
+<suite name="DemoDemo" verbose="1" >
+  <test name="Demoxml" >
+    <classes>
+       <class name="Mava.DataTypes" />
+    </classes>
+  </test>
+ 
+</suite>
